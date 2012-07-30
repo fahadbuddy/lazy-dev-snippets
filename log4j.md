@@ -55,7 +55,7 @@ log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
 ```
 
-then the following simple line will help you.
+then the following sample will help you.
 
 ```Java
 public class MyClass {
