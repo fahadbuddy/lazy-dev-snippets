@@ -1,1 +1,4 @@
 *.swp
+.classpath
+target
+.settings
