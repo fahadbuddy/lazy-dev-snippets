@@ -4,6 +4,12 @@
 
 ###Simple log4j.properties
 
+The following sample will
+ * Log everything in INFO level
+ * 2 packages in DEBUG level
+ * 2 packages to separate files
+ * Everything else to STDOUT
+
 ```Bash
 
 log4j.rootCategory=INFO, R
